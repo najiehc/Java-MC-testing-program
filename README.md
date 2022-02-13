@@ -9,7 +9,7 @@ DESCRIPTION:
   - Developed in Java SWING & AWT.
 
 HOW TO INSTALL:
-  - Download the source code from the right
+  - Clone the source source into desired directory
   - Delete the txt files (optional)
   - Run "javac *.java" in the directory where the files located.
   - Run "java Main". Control + C to exit the program at any time.
